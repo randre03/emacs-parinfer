@@ -1,0 +1,16 @@
+(source gnu)
+(source melpa)
+
+(development
+ (depends-on "cl")
+ (depends-on "cl-lib")
+ (depends-on "cl-seq")
+ (depends-on "defn")
+ (depends-on "dash")
+ (depends-on "ecukes")
+ (depends-on "ert-runner")
+ (depends-on "el-mock")
+ (depends-on "flycheck")
+ (depends-on "flycheck-cask")
+ (depends-on "f")
+ (depends-on "predd"))
