@@ -1,6 +1,6 @@
 # emacs-parinfer
 
-Parinfer (written by @shaunlebron http://shaunlebron.github.io/parinfer/#editor-plugins)
+Parinfer (written by @shaunlebron http://shaunlebron.github.io/parinfer)
 is a fantastic new solution to the time-honored problem of keeping track of your
 parentheses and keeping your code aligned (not just Lispers know this pain).
 This is a work-in-progress to bring Parinfer to Emacs as a minor-mode.
@@ -33,7 +33,7 @@ Some assistance that I need is porting the following clojure/clojureScript funct
 
 ## Credits
 
-http://shaunlebron.github.io/parinfer/#editor-plugins
+http://shaunlebron.github.io/parinfer
 
 ## License
 
